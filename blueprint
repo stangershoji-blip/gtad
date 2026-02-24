@@ -1,0 +1,16 @@
+## Vehicle System Blueprint Plan
+
+### Features
+- Drivable car
+- First-person camera
+- Third-person chase camera
+- Speedometer UI
+- Fuel system
+- Vehicle damage
+
+### Inputs
+W – Accelerate  
+S – Brake/Reverse  
+A/D – Steering  
+F – Enter/Exit vehicle  
+C – Change camera
