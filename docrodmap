@@ -1,0 +1,26 @@
+## Development Roadmap
+
+### Phase 1 – Core Setup
+- Create UE5 project
+- Add city map
+- Add player character
+
+### Phase 2 – Vehicles
+- Basic driving system
+- Enter/exit vehicle
+- Camera switch
+
+### Phase 3 – World Systems
+- Day/night cycle
+- Weather system
+- Traffic AI
+
+### Phase 4 – Police AI
+- Heat levels
+- Wanted system
+- Police spawning
+
+### Phase 5 – Polish
+- UI
+- Sound effects
+- Optimization
